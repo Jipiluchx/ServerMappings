@@ -1517,6 +1517,13 @@
         ]
     },
     {
+		    "id": "lastpvp",
+        "name": "LastPvP Network",
+        "addresses": [
+            "Lastpvp.holy.gg"
+        ]
+    },
+    {
         "id": "revenge",
         "name": "Revenge Network",
         "addresses": [
